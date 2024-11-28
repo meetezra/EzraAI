@@ -16,11 +16,11 @@ Hera AI is an advanced AI model designed to provide insightful trading analysis 
 
 ### Twitter Integration
 
-1. **Tweet Your Wallet**: To get started with Hera, simply tweet your Solana wallet address to the designated Twitter account (e.g., `@HeraBot`). Hera will automatically analyze your wallet activity and reply with a detailed review.
+1. **Tweet Your Wallet**: To get started with Hera, simply tweet your Solana wallet address to the designated Twitter account (e.g., `@ImHeraAI`). Hera will automatically analyze your wallet activity and reply with a detailed review.
    
    Example tweet:
    ```
-   @HeraBot Here's my wallet address: 5JzJ7e9uK27sMm38pK7cQz9dHeX5jYrmixvUjkQ98A4r
+   @ImHeraAI Here's my wallet address: 5JzJ7e9uK27sMm38pK7cQz9dHeX5jYrmixvUjkQ98A4r
    ```
 
 2. **Receive Your Analysis**: Hera will provide an in-depth analysis of your trading behavior, including feedback on emotional decision-making, paperhanding, roundtrips, and more. You'll receive a reply with a summary of your trading habits and tips to improve.
@@ -55,7 +55,7 @@ Hera will fetch your wallet's transaction data from the Solana blockchain and pr
 
 ### Example Use Case
 
-Tweet your wallet address at `@HeraBot`, and within minutes, Hera will reply with a detailed analysis of your trading behavior, providing actionable insights.
+Tweet your wallet address at `@ImHeraAI`, and within minutes, Hera will reply with a detailed analysis of your trading behavior, providing actionable insights.
 
 ---
 
