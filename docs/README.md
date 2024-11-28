@@ -7,7 +7,7 @@ Hera AI is an advanced AI model designed to provide insightful trading analysis 
 
 - **AI-Powered Trading Analysis**: Hera uses advanced machine learning to analyze your trading behavior and offer feedback on your habits.
 - **Emotional Impact Assessment**: Hera evaluates whether your trades are influenced by emotions, helping you make more rational decisions.
-- **Roundtrip Identification**: Hera identifies when you're entering and exiting positions too quickly, pointing out potential roundtrips (buying and selling too frequently).
+- **Roundtrip Identification**: Hera identifies when you're not exiting positions properly, causing potential roundtrips.
 - **Paperhanding Detection**: Hera identifies moments where you might be selling too early, often due to fear or uncertainty.
 - **Detailed Trading Reports**: Receive a comprehensive breakdown of your trading activity, including metrics like transaction volume, frequency, and performance.
 - **Wallet Integration**: Simply tweet your Solana wallet address to interact with Hera and receive a personalized trading analysis.
