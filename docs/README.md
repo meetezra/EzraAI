@@ -90,10 +90,5 @@ We welcome contributions to Hera! If you have ideas or improvements, please fork
 4. Push your changes to your forked repository (`git push origin feature-branch`).
 5. Create a pull request from your fork to the main repository.
 
-## Contact
-
-For questions or feedback, please reach out to [your email or contact method].
-
----
 
 Thank you for using Hera AI — your on-chain trading coach!
