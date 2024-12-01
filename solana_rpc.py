@@ -1,6 +1,6 @@
 import requests
 
-class HeraSolanaRPC:
+class ezraSolanaRPC:
     def __init__(self, rpc_url="https://api.mainnet-beta.solana.com"):
         """
         Initialize the connection to Solana's RPC endpoint.
@@ -102,7 +102,7 @@ class HeraSolanaRPC:
 
 # Example usage
 if __name__ == "__main__":
-    rpc = HeraSolanaRPC()
+    rpc = ezraSolanaRPC()
     wallet = "YourWalletAddressHere"
 
     # Test fetching account balance
