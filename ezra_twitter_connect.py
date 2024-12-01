@@ -2,10 +2,10 @@ import tweepy
 from wallet_analyzer import WalletAnalyzer
 import re
 
-class HeraTwitterBot:
+class ezraTwitterBot:
     def __init__(self, rpc_url="https://api.mainnet-beta.solana.com"):
         """
-        Initialize the Twitter bot and connect to the AI model (Hera).
+        Initialize the Twitter bot and connect to the AI model (ezra).
         
         Args:
             rpc_url (str): Solana RPC endpoint URL for blockchain data access.
@@ -84,5 +84,5 @@ class HeraTwitterBot:
 
 # Example usage
 if __name__ == "__main__":
-    bot = HeraTwitterBot()
+    bot = ezraTwitterBot()
     bot.process_mentions()
