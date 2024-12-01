@@ -1,11 +1,11 @@
-from solana_rpc import HeraSolanaRPC
+from solana_rpc import ezraSolanaRPC
 
 class WalletAnalyzer:
     def __init__(self, rpc_url="https://api.mainnet-beta.solana.com"):
         """
         Initialize the wallet analyzer with an RPC connection.
         """
-        self.rpc = HeraSolanaRPC(rpc_url)
+        self.rpc = ezraSolanaRPC(rpc_url)
 
     def analyze_balance(self, wallet_address):
         """
